@@ -1,4 +1,6 @@
-# Calcee
+#Chain of Custody using Algorand Blockchain
+
+This project is currently in the design phase with ongoing refinements and architectural planning.
 
 Welcome to your new AlgoKit project!
 
